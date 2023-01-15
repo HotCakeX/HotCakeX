@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="19"/> **I’m currently working on PowerShell projects: [Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) and [Set-DynamicIPDoHServer](Set-DynamicIPDoHServer)**
 
-<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="19"/> I’m currently learning PowerShell
+<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="18"/> I’m currently learning PowerShell
 
-<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="19"/> Pronouns: She/Her/ᴴᵒᵗᵉˡ ᴼˢᶜᵃʳ ᵀᵃⁿᵍᵒ ᶜʰᵃʳˡⁱᵉ ᴬˡᶠᵃ ᴷⁱˡᵒ ᴱᶜʰᵒ ˣ⁻ʳᵃʸ
+<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="18"/> Pronouns: She/Her/ᴴᵒᵗᵉˡ ᴼˢᶜᵃʳ ᵀᵃⁿᵍᵒ ᶜʰᵃʳˡⁱᵉ ᴬˡᶠᵃ ᴷⁱˡᵒ ᴱᶜʰᵒ ˣ⁻ʳᵃʸ
 
-<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="19"/> Interests: Learning, Automating things, Regex, Virtualization, Security, IT Security, Xbox/PC Gaming, Working out. the rest are _private_ ༼ つ ◕_◕ ༽つ
+<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="18"/> Interests: Learning, Automating things, Regex, Virtualization, Security, IT Security, Xbox/PC Gaming, Working out. the rest are _private_ ༼ つ ◕_◕ ༽つ
 
 <br>
 <br>
