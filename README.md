@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 -->
 
-<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="19"/> **I’m currently working on PowerShell projects: [Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) and [Set-DynamicIPDoHServer]([Set-DynamicIPDoHServer](https://github.com/HotCakeX/Set-DynamicIPDoHServer))**
+<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="19"/> **I’m currently working on PowerShell projects: [Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) and [Set-DynamicIPDoHServer](Set-DynamicIPDoHServer](https://github.com/HotCakeX/Set-DynamicIPDoHServer)**
 
 <img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="18"/> I’m currently learning PowerShell
 
