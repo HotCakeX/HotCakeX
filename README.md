@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 -->
 
-<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="19"/> **I’m currently working on PowerShell projects: [Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) and [Set-DynamicIPDoHServer](https://github.com/HotCakeX/Set-DynamicIPDoHServer)**
+<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="18"/> **I’m currently working on PowerShell projects: [Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) and [Set-DynamicIPDoHServer](https://github.com/HotCakeX/Set-DynamicIPDoHServer)**
 
 <img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="18"/> I’m currently learning PowerShell
 
@@ -23,11 +23,9 @@ Here are some ideas to get you started:
 <br>
 
 
-My online profiles:
-* [pronouns.page](https://en.pronouns.page/@hotcakex)
-* [Steam](https://steamcommunity.com/id/HotCakeX)
-* [XBOX](https://account.xbox.com/en-US/Profile?Gamertag=HottCakeX)
-* [Last.fm](https://www.last.fm/user/HotCakeX)
+#### _My online profiles_
+
+[<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/237-star-rating-morph-gradient.apng" width="22"/>pronouns.page](https://en.pronouns.page/@hotcakex)   [<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/237-star-rating-morph-gradient.apng" width="22"/>Steam](https://steamcommunity.com/id/HotCakeX)   [<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/237-star-rating-morph-gradient.apng" width="22"/>XBOX](https://account.xbox.com/en-US/Profile?Gamertag=HottCakeX)   [<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/237-star-rating-morph-gradient.apng" width="22"/>Last.fm](https://www.last.fm/user/HotCakeX)
 
 
 <br>
