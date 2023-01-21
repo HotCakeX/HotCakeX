@@ -21,8 +21,15 @@ Here are some ideas to get you started:
 ༼ つ ◕_◕ ༽つ
 
 <br>
-<br>
-<br><br>
+
+
+My online profiles:
+* [pronouns.page](https://en.pronouns.page/@hotcakex)
+* [Steam](https://steamcommunity.com/id/HotCakeX)
+* [XBOX](https://account.xbox.com/en-US/Profile?Gamertag=HottCakeX)
+* [Last.fm](https://www.last.fm/user/HotCakeX)
+
+
 <br>
 
 Projects I endorse:
