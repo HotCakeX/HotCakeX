@@ -28,4 +28,4 @@ Projects I endorse:
 | [uBlock Origin](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)|The Best ad-blocker extension, hands down|
 | [NanaZip](https://github.com/M2Team/NanaZip)|The best archive software, fork of 7-zip, modern beautiful UI, [available on Microsoft Store](https://www.microsoft.com/store/apps/9N8G7TSCL18R)|
 | [PowerToys](https://github.com/microsoft/PowerToys)|Awesome modular software Full of amazing useful tools|
-
+| [Invidious](https://github.com/iv-org/invidious)|an alternative front-end to YouTube|
