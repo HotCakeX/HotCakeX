@@ -14,7 +14,7 @@
 
 #### _My online profiles_
 
-[<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/237-star-rating-morph-gradient.apng" width="22"/>pronouns.page](https://en.pronouns.page/@hotcakex)   [<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/237-star-rating-morph-gradient.apng" width="22"/>Steam](https://steamcommunity.com/id/HotCakeX)   [<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/237-star-rating-morph-gradient.apng" width="22"/>XBOX](https://account.xbox.com/en-US/Profile?Gamertag=HottCakeX)   [<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/237-star-rating-morph-gradient.apng" width="22"/>Last.fm](https://www.last.fm/user/HotCakeX)
+[<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/237-star-rating-morph-gradient.apng" width="22"/>pronouns.page](https://en.pronouns.page/@hotcakex)   [<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/237-star-rating-morph-gradient.apng" width="22"/>Steam](https://steamcommunity.com/id/HotCakeX)   [<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/237-star-rating-morph-gradient.apng" width="22"/>XBOX](https://account.xbox.com/en-US/Profile?Gamertag=HottCakeX)   [<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/237-star-rating-morph-gradient.apng" width="22"/>Last.fm](https://www.last.fm/user/HotCakeX) <img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/237-star-rating-morph-gradient.apng" width="22"/>Discord: `CupCake#9151`
 
 
 <br>
