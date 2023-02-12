@@ -23,12 +23,15 @@
 
 <p align="center"><img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/237-star-rating-morph-gradient.apng" width="22"/><a href="https://account.xbox.com/en-US/Profile?Gamertag=HottCakeX"> Xbox GamerTag: </a>HottCakeX <img src="https://user-images.githubusercontent.com/118815227/218340403-7b3f54bf-1898-4e93-9dec-3e109db821ca.png" width="22"/></p>
 
-<p align="center"><img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/237-star-rating-morph-gradient.apng" width="22"/>Discord: <i>CupCake#9151</i></p>
+<p align="center"><img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/237-star-rating-morph-gradient.apng" width="22"/>Discord: <i>CupCake#9151</i><img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218341083-c1f89555-da1d-41de-8fc5-a76d7f547742.gif"></p>
 
 
 
-## <p align="center">Stats <img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218338229-2516daef-3362-43b5-948b-ea552af00ea2.gif"></p>
+## <p align="center"><img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218341043-776b003e-90ac-4e00-b6bf-1888c8b7864f.gif"> Stats <img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218338229-2516daef-3362-43b5-948b-ea552af00ea2.gif"></p>
  
+
+
+
 
 
 
