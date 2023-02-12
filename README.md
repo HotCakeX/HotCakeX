@@ -16,9 +16,9 @@
 
 <p align="center"><img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="20"/> I’m currently learning PowerShell <img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218340230-77d2c90b-207f-4318-ac7c-313e64c56aa2.png"></p>
 
-
-<p align="center"><img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="20"/> Interests: Learning, Automating things, Regex, Virtualization, Security, IT Security, Xbox/PC Gaming, Working out. the rest are private
-<img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218338829-dadae284-4887-4c6e-b937-8b792e9e3ee5.gif"></p>
+  
+  
+<p align="center"><img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218338829-dadae284-4887-4c6e-b937-8b792e9e3ee5.gif"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lilita+One&size=22&duration=3000&pause=200&color=FF76F2&background=EFFF6100&center=true&vCenter=true&multiline=true&width=435&height=300&lines=Some+of+my+Interests%3A;Learning;Automating+things;Regex;Virtualization;Security;IT+Security;Xbox%2FPC+Gaming;Working+Out;The+Rest+are+private..." alt="Typing SVG" /></a></p>
   
 
 <p align="center"><img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/237-star-rating-morph-gradient.apng" width="22"/><a href="https://account.xbox.com/en-US/Profile?Gamertag=HottCakeX"> Xbox GamerTag: </a>HottCakeX <img src="https://user-images.githubusercontent.com/118815227/218340403-7b3f54bf-1898-4e93-9dec-3e109db821ca.png" width="22"/></p>
