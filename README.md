@@ -14,7 +14,7 @@
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HotCakeX)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HotCakeX)](https://github.com/HotCakeX/)
 
 #### _My online profiles_
 
