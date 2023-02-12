@@ -1,11 +1,14 @@
 ### Hello ^_^
 
 
-<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="18"/> **I’m currently working on PowerShell projects: [Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) and [Set-DynamicIPDoHServer](https://github.com/HotCakeX/Set-DynamicIPDoHServer) and [Official-IANA-IP-blocks](https://github.com/HotCakeX/Official-IANA-IP-blocks)**
+<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="20"/> **I’m currently working on these projects:**
+- <img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="14"/> [Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) (_Harden Windows 11 Safely, Securely, only with Official Microsoft methods_)
+- <img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="14"/> [Set-DynamicIPDoHServer](https://github.com/HotCakeX/Set-DynamicIPDoHServer) (_Use a DNS over HTTPS server that doesn't have a stable IP address, on Windows_)
+- <img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="14"/> [Official-IANA-IP-blocks](https://github.com/HotCakeX/Official-IANA-IP-blocks) (_Internet Assigned Numbers Authority (IANA) official IP address blocks_)
 
-<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="18"/> I’m currently learning PowerShell
+<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="20"/> I’m currently learning PowerShell
 
-<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="18"/> Interests: Learning, Automating things, Regex, Virtualization, Security, IT Security, Xbox/PC Gaming, Working out. the rest are _private_ 
+<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="20"/> Interests: Learning, Automating things, Regex, Virtualization, Security, IT Security, Xbox/PC Gaming, Working out. the rest are _private_ 
 <br>
 ༼ つ ◕_◕ ༽つ
 
