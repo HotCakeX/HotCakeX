@@ -12,15 +12,13 @@
 <br>
 ༼ つ ◕_◕ ༽つ
 
+
+[<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/237-star-rating-morph-gradient.apng" width="22"/>XBOX](https://account.xbox.com/en-US/Profile?Gamertag=HottCakeX)<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/237-star-rating-morph-gradient.apng" width="22"/>Discord: `CupCake#9151`
+
 <br>
-
-
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=HotCakeX&theme=violet-dark&hide_border=true)](https://git.io/streak-stats)
 
-
-
-[<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/237-star-rating-morph-gradient.apng" width="22"/>XBOX](https://account.xbox.com/en-US/Profile?Gamertag=HottCakeX)<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/237-star-rating-morph-gradient.apng" width="22"/>Discord: `CupCake#9151`
 
 
 <br>
