@@ -23,12 +23,14 @@
 
 <br>
 
-<p align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=eypgh60p3zw1duh9lbsbc2mix&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=63fd7d&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=eypgh60p3zw1duh9lbsbc2mix&redirect=true)
  
- </p>
-
+ <p align="center">
+  <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=eypgh60p3zw1duh9lbsbc2mix&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=63fd7d&bar_color_cover=true">
+</p>
+ 
+ 
+ 
+ 
 
 <br>
 
