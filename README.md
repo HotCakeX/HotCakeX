@@ -5,22 +5,26 @@
 
 
 
-<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="20"/> **I’m currently working on these projects:**
-- <img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="14"/> [**Harden-Windows-Security**](https://github.com/HotCakeX/Harden-Windows-Security) (_Harden Windows 11 Safely, Securely, only with Official Microsoft methods_)
-- <img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="14"/> [**Set-DynamicIPDoHServer**](https://github.com/HotCakeX/Set-DynamicIPDoHServer) (_Use a DNS over HTTPS server that doesn't have a stable IP address, on Windows_)
-- <img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="14"/> [**Official-IANA-IP-blocks**](https://github.com/HotCakeX/Official-IANA-IP-blocks) (_Internet Assigned Numbers Authority (IANA) official IP address blocks_)
+### <p align="center"><img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="20"/> I’m currently working on these projects:<img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218339451-5a8ccda3-a096-4847-a7f1-18aa6ea2436f.gif"></p>
 
-<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="20"/> I’m currently learning PowerShell
-
-<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="20"/> Interests: Learning, Automating things, Regex, Virtualization, Security, IT Security, Xbox/PC Gaming, Working out. the rest are _private_ 
-<img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218338829-dadae284-4887-4c6e-b937-8b792e9e3ee5.gif">
-<br>
+<p align="center"><img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="14"/>  <a href="https://github.com/HotCakeX/Harden-Windows-Security">Harden-Windows-Security: </a><i>Harden Windows 11 Safely, Securely, only with Official Microsoft methods </i></p>
+ 
+<p align="center"><img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="14"/> <a href="https://github.com/HotCakeX/Set-DynamicIPDoHServer">Set-DynamicIPDoHServer: </a><i>Use a DNS over HTTPS server that doesn't have a stable IP address, on Windows</i></p>
+ 
+<p align="center"><img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="14"/> <a href="https://github.com/HotCakeX/Official-IANA-IP-blocks">Official-IANA-IP-blocks: </a> <i>Internet Assigned Numbers Authority (IANA) official IP address blocks</i></p>
 
 
+<p align="center"><img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="20"/> I’m currently learning PowerShell <img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218340230-77d2c90b-207f-4318-ac7c-313e64c56aa2.png"></p>
 
-[<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/237-star-rating-morph-gradient.apng" width="22"/>XBOX](https://account.xbox.com/en-US/Profile?Gamertag=HottCakeX)<img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/237-star-rating-morph-gradient.apng" width="22"/>Discord: `CupCake#9151`
 
-<br>
+<p align="center"><img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="20"/> Interests: Learning, Automating things, Regex, Virtualization, Security, IT Security, Xbox/PC Gaming, Working out. the rest are private
+<img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218338829-dadae284-4887-4c6e-b937-8b792e9e3ee5.gif"></p>
+  
+
+<p align="center"><img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/237-star-rating-morph-gradient.apng" width="22"/><a href="https://account.xbox.com/en-US/Profile?Gamertag=HottCakeX"> Xbox GamerTag: </a>HottCakeX <img src="https://user-images.githubusercontent.com/118815227/218340403-7b3f54bf-1898-4e93-9dec-3e109db821ca.png" width="22"/></p>
+
+<p align="center"><img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/237-star-rating-morph-gradient.apng" width="22"/>Discord: <i>CupCake#9151</i></p>
+
 
 
 ## <p align="center">Stats <img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218338229-2516daef-3362-43b5-948b-ea552af00ea2.gif"></p>
@@ -40,7 +44,7 @@
 
  
  <p align="center">
-  <img width="800" height="245" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=eypgh60p3zw1duh9lbsbc2mix&cover_image=true&theme=novatorem&show_offline=false&background_color=00fffb&bar_color=ff7af4&bar_color_cover=false">
+  <a href=""><img width="800" height="245" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=eypgh60p3zw1duh9lbsbc2mix&cover_image=true&theme=novatorem&show_offline=false&background_color=00fffb&bar_color=ff7af4&bar_color_cover=false"></a>
 </p>
  
  
