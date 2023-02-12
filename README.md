@@ -2,9 +2,9 @@
 
 
 <img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="20"/> **I’m currently working on these projects:**
-- <img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="14"/> [Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) (_Harden Windows 11 Safely, Securely, only with Official Microsoft methods_)
-- <img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="14"/> [Set-DynamicIPDoHServer](https://github.com/HotCakeX/Set-DynamicIPDoHServer) (_Use a DNS over HTTPS server that doesn't have a stable IP address, on Windows_)
-- <img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="14"/> [Official-IANA-IP-blocks](https://github.com/HotCakeX/Official-IANA-IP-blocks) (_Internet Assigned Numbers Authority (IANA) official IP address blocks_)
+- <img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="14"/> [**Harden-Windows-Security**](https://github.com/HotCakeX/Harden-Windows-Security) (_Harden Windows 11 Safely, Securely, only with Official Microsoft methods_)
+- <img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="14"/> [**Set-DynamicIPDoHServer**](https://github.com/HotCakeX/Set-DynamicIPDoHServer) (_Use a DNS over HTTPS server that doesn't have a stable IP address, on Windows_)
+- <img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="14"/> [**Official-IANA-IP-blocks**](https://github.com/HotCakeX/Official-IANA-IP-blocks) (_Internet Assigned Numbers Authority (IANA) official IP address blocks_)
 
 <img src="https://github.com/HotCakeX/HotCakeX/blob/main/Private/Images/20-love-heart-gradient.apng" width="20"/> I’m currently learning PowerShell
 
@@ -14,7 +14,7 @@
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HotCakeX)](https://github.com/HotCakeX/)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HotCakeX)](https://git.io/streak-stats)
 
 #### _My online profiles_
 
