@@ -67,3 +67,4 @@
 | [NanaZip](https://github.com/M2Team/NanaZip)|The best archive software, fork of 7-zip, modern beautiful UI, [available on Microsoft Store](https://www.microsoft.com/store/apps/9N8G7TSCL18R)|
 | [PowerToys](https://github.com/microsoft/PowerToys)|Awesome modular software Full of amazing useful tools|
 | [Invidious](https://github.com/iv-org/invidious)|An alternative front-end to YouTube|
+| [icons8](https://icons8.com/) |Awesome website that I got all of my icons from for free|
