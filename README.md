@@ -55,13 +55,13 @@
 
 <br>
 
-## <p align="center"><img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218341043-776b003e-90ac-4e00-b6bf-1888c8b7864f.gif"> 𝚂𝚝𝚊𝚝𝚜 <img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218338229-2516daef-3362-43b5-948b-ea552af00ea2.gif"></p>
+## <p align="center"><img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218341043-776b003e-90ac-4e00-b6bf-1888c8b7864f.gif"> [𝚂𝚝𝚊𝚝𝚜](#-%F0%9D%9A%82%F0%9D%9A%9D%F0%9D%9A%8A%F0%9D%9A%9D%F0%9D%9A%9C-) <img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218338229-2516daef-3362-43b5-948b-ea552af00ea2.gif"></p>
 
  <p align="center">
   <img width="500" src="https://streak-stats.demolab.com?user=HotCakeX&theme=violet-dark&hide_border=true">
 </p>
 
-## <p align="center">🎧 𝙼𝚢 𝚂𝚙𝚘𝚝𝚒𝚏𝚢 <img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218338416-22208dcf-2dfa-4d5d-a638-02bbdff9383a.gif"></p>
+## <p align="center">[🎧 𝙼𝚢 𝚂𝚙𝚘𝚝𝚒𝚏𝚢](#-%F0%9D%99%BC%F0%9D%9A%A2-%F0%9D%9A%82%F0%9D%9A%99%F0%9D%9A%98%F0%9D%9A%9D%F0%9D%9A%92%F0%9D%9A%8F%F0%9D%9A%A2-) <img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218338416-22208dcf-2dfa-4d5d-a638-02bbdff9383a.gif"></p>
 
 <p align="center">
 <a href=""><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=eypgh60p3zw1duh9lbsbc2mix&cover_image=true&theme=novatorem&show_offline=false&background_color=00fffb&bar_color=ff7af4&bar_color_cover=false"></a>
