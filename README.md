@@ -35,7 +35,7 @@
 
 <br>
 
-## <img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="20"/> ₥Ɏ ₱ⱤØJɆ₵₮₴ <img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218339451-5a8ccda3-a096-4847-a7f1-18aa6ea2436f.gif">
+## <img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="20"/> [₥Ɏ ₱ⱤØJɆ₵₮₴](#-%C9%8F-%C9%BD%C3%B8j%C9%87-) <img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218339451-5a8ccda3-a096-4847-a7f1-18aa6ea2436f.gif">
 
 #### <img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="14"/>  <a href="https://github.com/HotCakeX/Harden-Windows-Security">Harden-Windows-Security </a>Harden Windows Safely, Securely, only with Official Microsoft methods
 
