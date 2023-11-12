@@ -65,7 +65,7 @@
 ## <p align="center">[🎧 𝙼𝚢 𝚂𝚙𝚘𝚝𝚒𝚏𝚢](#-%F0%9D%99%BC%F0%9D%9A%A2-%F0%9D%9A%82%F0%9D%9A%99%F0%9D%9A%98%F0%9D%9A%9D%F0%9D%9A%92%F0%9D%9A%8F%F0%9D%9A%A2-) <img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218338416-22208dcf-2dfa-4d5d-a638-02bbdff9383a.gif"></p>
 
 <p align="center">
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=eypgh60p3zw1duh9lbsbc2mix&amp;redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=eypgh60p3zw1duh9lbsbc2mix&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=false&amp;background_color=121212&amp;interchange=false&amp;bar_color=53b14f&amp;bar_color_cover=false" alt="spotify-github-profile"></a>
+<a href="https://open.spotify.com/user/eypgh60p3zw1duh9lbsbc2mix"><img src="https://spotify-github-profile.vercel.app/api/view?uid=eypgh60p3zw1duh9lbsbc2mix&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile"></a>
 </p>
 
 <br>
