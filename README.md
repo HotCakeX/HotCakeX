@@ -80,9 +80,7 @@
 | [Cloudflare WARP](https://cloudflarewarp.com/)|Secure your Internet connection with WireGuard VPN protocol|
 | [PowerToys](https://github.com/microsoft/PowerToys)|Awesome modular software full of useful tools|
 | [Invidious](https://github.com/iv-org/invidious)|An alternative front-end to YouTube|
-| [icons8](https://icons8.com/) |Awesome website that I got all of my icons from for free|
 | [11ty/eleventy](https://github.com/11ty/eleventy/) | Create automatic websites using markdown and other file types |
 | [MkDocs](https://squidfunk.github.io/mkdocs-material/) | Create automatic websites using markdown |
-| [emoji.gg](https://emoji.gg/) | Another website I use for GIFs |
 
 </div>
