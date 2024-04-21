@@ -23,6 +23,7 @@
 <a href="https://bsky.app/profile/hotcakex.bsky.social"><img width="30" height="30" src="https://raw.githubusercontent.com/HotCakeX/HotCakeX/main/Private/Images/Socials/Bsky.png"></a>
 <a href="https://infosec.exchange/@SpyNetGirl"><img width="30" height="30" src="https://raw.githubusercontent.com/HotCakeX/HotCakeX/dbfa543cdc9496c4258dd3bf6ea11caac277aadf/Private/Images/Socials/mastodonicon.svg"></a>
 <a href="https://www.facebook.com/VioletCakeX"><img width="30" height="30" src="https://raw.githubusercontent.com/HotCakeX/HotCakeX/main/Private/Images/Socials/Facebook.svg"></a>
+<a href="https://www.credly.com/users/hotcakex/badges"><img width="30" height="30" src="https://raw.githubusercontent.com/HotCakeX/HotCakeX/main/Private/Images/Socials/credly.png"></a>
 
 <br>
 
