@@ -69,12 +69,6 @@
   <img width="500" src="https://streak-stats.demolab.com?user=HotCakeX&theme=violet-dark&hide_border=true">
 </p>
 
-## <p align="center">[🎧 𝙼𝚢 𝚂𝚙𝚘𝚝𝚒𝚏𝚢](#-%F0%9D%99%BC%F0%9D%9A%A2-%F0%9D%9A%82%F0%9D%9A%99%F0%9D%9A%98%F0%9D%9A%9D%F0%9D%9A%92%F0%9D%9A%8F%F0%9D%9A%A2-) <img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218338416-22208dcf-2dfa-4d5d-a638-02bbdff9383a.gif"></p>
-
-<p align="center">
-<a href="https://open.spotify.com/user/eypgh60p3zw1duh9lbsbc2mix"><img src="https://spotify-github-profile.vercel.app/api/view?uid=eypgh60p3zw1duh9lbsbc2mix&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile"></a>
-</p>
-
 <br>
 
 ## <p align="center">[𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝙸 𝚎𝚗𝚍𝚘𝚛𝚜𝚎](#%F0%9D%99%BF%F0%9D%9A%9B%F0%9D%9A%98%F0%9D%9A%93%F0%9D%9A%8E%F0%9D%9A%8C%F0%9D%9A%9D%F0%9D%9A%9C-%F0%9D%99%B8-%F0%9D%9A%8E%F0%9D%9A%97%F0%9D%9A%8D%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%9C%F0%9D%9A%8E-) <img width="60" height="60" src="https://user-images.githubusercontent.com/118815227/218338592-6483fb60-6e85-4594-b3e7-c537e248b13d.gif"></p>
