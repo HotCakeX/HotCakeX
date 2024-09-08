@@ -77,8 +77,6 @@
 
 | Name                          | Description                                                |
 |:-----------------------------:|:----------------------------------------------------------:|
-| [YouTube Vanced](https://github.com/cuynu/ytvanced)| Ad-free YouTube app |
-| [Cloudflare WARP](https://cloudflarewarp.com/)|Secure your Internet connection with WireGuard VPN protocol|
 | [PowerToys](https://github.com/microsoft/PowerToys)|Awesome modular software full of useful tools|
 | [Invidious](https://github.com/iv-org/invidious)|An alternative front-end to YouTube|
 | [11ty/eleventy](https://github.com/11ty/eleventy/) | Create automatic websites using markdown and other file types |
