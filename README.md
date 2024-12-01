@@ -49,7 +49,7 @@
 
 #### <img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="14"/>  <a href="https://spynetgirl.github.io/">spynetgirl.github.io </a>My Windows Security Blog
 
-#### <img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="14"/>  <a href="https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig">WDACConfig PowerShell module </a>For Windows Defender Application Control
+#### <img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="14"/>  <a href="https://github.com/HotCakeX/Harden-Windows-Security/wiki/AppControl-Manager">AppControl Manager </a>For Application Control for Business
 
 #### <img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="14"/> <a href="https://github.com/HotCakeX/Official-IANA-IP-blocks">Official-IANA-IP-blocks </a> Internet Assigned Numbers Authority (IANA) official IP address blocks
 
