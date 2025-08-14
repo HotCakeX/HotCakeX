@@ -21,6 +21,7 @@
 <a href="https://orcid.org/0009-0000-6616-4938"><img width="30" height="30" src="https://raw.githubusercontent.com/HotCakeX/HotCakeX/main/Private/Images/Socials/orcid_icon.png" alt="Orcid profile and icon"></a>
 <a href="https://spynetgirl.medium.com/"><img width="30" height="30" src="https://raw.githubusercontent.com/HotCakeX/HotCakeX/e0759dbc5b10c7ff9c10d09a49639e40ec780151/Private/Images/Socials/medium.svg" alt="Medium profile and icon"></a> <a href="https://www.facebook.com/VioletCakeX"><img width="30" height="30" src="https://raw.githubusercontent.com/HotCakeX/HotCakeX/main/Private/Images/Socials/Facebook.svg" alt="Facebook profile and icon"></a>
 <a href="https://mvp.microsoft.com/en-US/mvp/profile/4edbca65-7979-4779-b7e4-d182e123259b"><img width="30" height="35" src="https://mvp.microsoft.com/Assets/UserProfile/MVP/Badge.svg" alt="MVP profile and icon"></a>
+<a href="https://www.credly.com/users/hotcakex/"><img width="35" height="35" src="https://raw.githubusercontent.com/HotCakeX/HotCakeX/b4ae6b295182e6cc73c0a85cb3bfa154f10a89f7/Private/Images/Socials/Credly.svg" alt="Credly profile and icon"></a>
 </p>
 
 <br>
@@ -61,7 +62,7 @@
 
 <br>
 
-## <p align="center"><img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218341043-776b003e-90ac-4e00-b6bf-1888c8b7864f.gif"> [𝚂𝚝𝚊𝚝𝚜](#-%F0%9D%9A%82%F0%9D%9A%9D%F0%9D%9A%8A%F0%9D%9A%9D%F0%9D%9A%9C-) <img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218338229-2516daef-3362-43b5-948b-ea552af00ea2.gif"></p>
+## <p align="center"><img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218341043-776b003e-90ac-4e00-b6bf-1888c8b7864f.gif"> 𝚂𝚝𝚊𝚝𝚜 <img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218338229-2516daef-3362-43b5-948b-ea552af00ea2.gif"></p>
 
  <p align="center">
   <img width="500" src="https://streak-stats.demolab.com?user=HotCakeX&theme=violet-dark&hide_border=true">
@@ -69,15 +70,13 @@
 
 <br>
 
-## <p align="center">[𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝙸 𝚎𝚗𝚍𝚘𝚛𝚜𝚎](#%F0%9D%99%BF%F0%9D%9A%9B%F0%9D%9A%98%F0%9D%9A%93%F0%9D%9A%8E%F0%9D%9A%8C%F0%9D%9A%9D%F0%9D%9A%9C-%F0%9D%99%B8-%F0%9D%9A%8E%F0%9D%9A%97%F0%9D%9A%8D%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%9C%F0%9D%9A%8E-) <img width="60" height="60" src="https://user-images.githubusercontent.com/118815227/218338592-6483fb60-6e85-4594-b3e7-c537e248b13d.gif"></p>
+## <p align="center">𝙼𝚢 𝙰𝚙𝚙𝚜 𝙾𝚗 𝚝𝚑𝚎 𝙼𝚒𝚌𝚛𝚘𝚜𝚘𝚏𝚝 𝚂𝚝𝚘𝚛𝚎 <img width="60" height="60" src="https://user-images.githubusercontent.com/118815227/218338592-6483fb60-6e85-4594-b3e7-c537e248b13d.gif"></p>
 
 <div align="center">
 
-| Name                          | Description                                                |
-|:-----------------------------:|:----------------------------------------------------------:|
-| [PowerToys](https://github.com/microsoft/PowerToys)|Awesome modular software full of useful tools|
-| [Invidious](https://github.com/iv-org/invidious)|An alternative front-end to YouTube|
-| [11ty/eleventy](https://github.com/11ty/eleventy/) | Create automatic websites using markdown and other file types |
-| [MkDocs](https://squidfunk.github.io/mkdocs-material/) | Create automatic websites using markdown |
+| Aρρ | ​🇳​​🇦​​🇲​​🇪​ |
+|:----------:|:----------:|
+| <a href="https://apps.microsoft.com/detail/9p7ggfl7dx57?referrer=appbadge&mode=direct"><img src="https://get.microsoft.com/images/en-us%20dark.svg" width="300"/></a> | **[Harden System Security](https://github.com/HotCakeX/Harden-Windows-Security/wiki/Harden-System-Security)** |
+| <a href="https://apps.microsoft.com/detail/9png1jddtgp8?mode=direct"><img src="https://get.microsoft.com/images/en-us%20dark.svg" width="300" alt="install AppControl Manager from Microsoft Store"/></a> | **[AppControl Manager](https://github.com/HotCakeX/Harden-Windows-Security/wiki/AppControl-Manager)** |
 
 </div>
