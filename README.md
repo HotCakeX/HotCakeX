@@ -54,8 +54,6 @@
 
 #### <img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="14"/> <a href="https://github.com/HotCakeX/Official-IANA-IP-blocks">Official-IANA-IP-blocks </a> Internet Assigned Numbers Authority (IANA) official IP address blocks
 
-#### <img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="14"/> <a href="https://github.com/HotCakeX/WinSecureDNSMgr">WinSecureDNSMgr </a>Automatic way to configure Secure DNS in Windows with multiple available operation modes
-
 #### <img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="14"/> <a href="https://github.com/SpyNetGirl/MSEdgeFeatures">MSEdgeFeatures </a>Automated repository, tasked with identifying feature changes in each Edge canary update
 
 #### <img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="14"/> <a href="https://github.com/HotCakeX/Privacy-Anonymity-Compartmentalization">Privacy, Anonymity, Compartmentalization </a> And everything in between
